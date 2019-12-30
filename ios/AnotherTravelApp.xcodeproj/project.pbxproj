@@ -13,6 +13,8 @@
 		00C302E91ABCBA2D00DB3ED1 /* libRCTNetwork.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302DC1ABCB9D200DB3ED1 /* libRCTNetwork.a */; };
 		00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302E41ABCB9EE00DB3ED1 /* libRCTVibration.a */; };
 		00E356F31AD99517003FC87E /* AnotherTravelAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AnotherTravelAppTests.m */; };
+		051818506F4F43B5A1A5358D /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 8F10EB36D75D46D19A0E412F /* Fontisto.ttf */; };
+		0ECE9D307DF4454A912FBB62 /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2F7C1C341E824461A2BEE295 /* EvilIcons.ttf */; };
 		11D1A2F320CAFA9E000508D9 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		133E29F31AD74F7200F7D852 /* libRCTLinking.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 78C398B91ACF4ADC00677621 /* libRCTLinking.a */; };
 		139105C61AF99C1200B5F7CC /* libRCTSettings.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 139105C11AF99BAD00B5F7CC /* libRCTSettings.a */; };
@@ -23,6 +25,9 @@
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		140ED2AC1D01E1AD002B40FF /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
 		146834051AC3E58100842450 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 146834041AC3E56700842450 /* libReact.a */; };
+		14BEDCC4698B4D8098605E0C /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C7CE2EBAFC454F449C2BB9B4 /* FontAwesome5_Regular.ttf */; };
+		2086E701B7904940BC974401 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 36EEE837681A432988FB9E1C /* FontAwesome5_Brands.ttf */; };
+		227053BE2F024F128506AF34 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 0272CC2E54B8490AB990526D /* SimpleLineIcons.ttf */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -36,12 +41,23 @@
 		2D16E6881FA4F8E400B85C8A /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 2D16E6891FA4F8E400B85C8A /* libReact.a */; };
 		2DCD954D1E0B4F2C00145EB5 /* AnotherTravelAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* AnotherTravelAppTests.m */; };
 		2DF0FFEE2056DD460020B375 /* libReact.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 3DAD3EA31DF850E9000B6D8A /* libReact.a */; };
+		3383F331D6BA473E8CCA6969 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C59222E611014501B2E87739 /* Zocial.ttf */; };
+		48FE890779C444FEA3B4072B /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7A41E7E9236A41CAA9721290 /* FontAwesome5_Solid.ttf */; };
 		4D9B4B2409B4B8D86772601A /* Pods_AnotherTravelApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E80E21B83DA56D279EA4B6C4 /* Pods_AnotherTravelApp.framework */; };
 		6082D825DB37019E77654612 /* Pods_AnotherTravelAppTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E7697B4662A4C4DA7FEBACEE /* Pods_AnotherTravelAppTests.framework */; };
+		80D4D7AC50D84B1DA79A9C5F /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3C5CA17A31AF47A7AEE8A483 /* AntDesign.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		85DDC591DBBD1474EF82F4AB /* Pods_AnotherTravelApp_tvOS.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2B53BB2F3CFCB4EBE89CF6D /* Pods_AnotherTravelApp_tvOS.framework */; };
+		9C89A14D5C2C4C68AE7A922C /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F9508AA6FA444D24B2C0FE96 /* FontAwesome.ttf */; };
+		9ED2373EC1C743C3AF64A363 /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4B3679BE176B402199BAB6A3 /* Foundation.ttf */; };
+		9F18965EB26B49EB83792DCB /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 660167168B4645A4B2333B15 /* Feather.ttf */; };
 		A0F27AFEFDD8B623059CDE69 /* Pods_AnotherTravelApp_tvOSTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F069D6E12EAA80913EF7C1C /* Pods_AnotherTravelApp_tvOSTests.framework */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
+		C54FF10C06EA446894C066D3 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 363BFD06B52244D9A71536FB /* Entypo.ttf */; };
+		CD642C915209462DB0DBC6BD /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B3AD6179529A4D29BCB88276 /* MaterialIcons.ttf */; };
+		D8068191A9AE4204A3D5DD17 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 22EB3162C9144401BE69F2A4 /* Octicons.ttf */; };
+		E195EE64FFB04FB2BA601918 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9324248296A64C3FA9976210 /* MaterialCommunityIcons.ttf */; };
+		E4EEAC069B1F47ED974A5CA9 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C4A40BB863FD498BBD8F0916 /* Ionicons.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -330,6 +346,7 @@
 		00E356EE1AD99517003FC87E /* AnotherTravelAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnotherTravelAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* AnotherTravelAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AnotherTravelAppTests.m; sourceTree = "<group>"; };
+		0272CC2E54B8490AB990526D /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		139105B61AF99BAD00B5F7CC /* RCTSettings.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTSettings.xcodeproj; path = "../node_modules/react-native/Libraries/Settings/RCTSettings.xcodeproj"; sourceTree = "<group>"; };
 		139FDEE61B06529A00C62182 /* RCTWebSocket.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTWebSocket.xcodeproj; path = "../node_modules/react-native/Libraries/WebSocket/RCTWebSocket.xcodeproj"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* AnotherTravelApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AnotherTravelApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -340,25 +357,40 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = AnotherTravelApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = AnotherTravelApp/main.m; sourceTree = "<group>"; };
 		146833FF1AC3E56700842450 /* React.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = React.xcodeproj; path = "../node_modules/react-native/React/React.xcodeproj"; sourceTree = "<group>"; };
+		22EB3162C9144401BE69F2A4 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		2324B7A79090A2B855CCF863 /* Pods-AnotherTravelApp-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnotherTravelApp-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-AnotherTravelApp-tvOS/Pods-AnotherTravelApp-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* AnotherTravelApp-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "AnotherTravelApp-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* AnotherTravelApp-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "AnotherTravelApp-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D16E6891FA4F8E400B85C8A /* libReact.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; path = libReact.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F7C1C341E824461A2BEE295 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		363BFD06B52244D9A71536FB /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
+		36EEE837681A432988FB9E1C /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
 		37D762FE2086D38B333D4B62 /* Pods-AnotherTravelAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnotherTravelAppTests.debug.xcconfig"; path = "Target Support Files/Pods-AnotherTravelAppTests/Pods-AnotherTravelAppTests.debug.xcconfig"; sourceTree = "<group>"; };
+		3C5CA17A31AF47A7AEE8A483 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
 		3F38F7D0EC1AC8A70B4EC111 /* Pods-AnotherTravelApp-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnotherTravelApp-tvOS.release.xcconfig"; path = "Target Support Files/Pods-AnotherTravelApp-tvOS/Pods-AnotherTravelApp-tvOS.release.xcconfig"; sourceTree = "<group>"; };
+		4B3679BE176B402199BAB6A3 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
 		5326D7472DE350D6C23392BC /* Pods-AnotherTravelApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnotherTravelApp.release.xcconfig"; path = "Target Support Files/Pods-AnotherTravelApp/Pods-AnotherTravelApp.release.xcconfig"; sourceTree = "<group>"; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
+		660167168B4645A4B2333B15 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
 		78C398B01ACF4ADC00677621 /* RCTLinking.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTLinking.xcodeproj; path = "../node_modules/react-native/Libraries/LinkingIOS/RCTLinking.xcodeproj"; sourceTree = "<group>"; };
+		7A41E7E9236A41CAA9721290 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		832341B01AAA6A8300B99B32 /* RCTText.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTText.xcodeproj; path = "../node_modules/react-native/Libraries/Text/RCTText.xcodeproj"; sourceTree = "<group>"; };
 		8CDFED062D9C0A71602EBD06 /* Pods-AnotherTravelAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnotherTravelAppTests.release.xcconfig"; path = "Target Support Files/Pods-AnotherTravelAppTests/Pods-AnotherTravelAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		8F10EB36D75D46D19A0E412F /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
+		9324248296A64C3FA9976210 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		9396E062B68C6875A2888412 /* Pods-AnotherTravelApp-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnotherTravelApp-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-AnotherTravelApp-tvOSTests/Pods-AnotherTravelApp-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 		9F069D6E12EAA80913EF7C1C /* Pods_AnotherTravelApp_tvOSTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AnotherTravelApp_tvOSTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
+		B3AD6179529A4D29BCB88276 /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
+		C4A40BB863FD498BBD8F0916 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		C59222E611014501B2E87739 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		C7CE2EBAFC454F449C2BB9B4 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		DF4CBA1A4238FB5FDE57C2AB /* Pods-AnotherTravelApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnotherTravelApp.debug.xcconfig"; path = "Target Support Files/Pods-AnotherTravelApp/Pods-AnotherTravelApp.debug.xcconfig"; sourceTree = "<group>"; };
 		E2B53BB2F3CFCB4EBE89CF6D /* Pods_AnotherTravelApp_tvOS.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AnotherTravelApp_tvOS.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E7697B4662A4C4DA7FEBACEE /* Pods_AnotherTravelAppTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AnotherTravelAppTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E80E21B83DA56D279EA4B6C4 /* Pods_AnotherTravelApp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_AnotherTravelApp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F059D09E4207E02466F3D25D /* Pods-AnotherTravelApp-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-AnotherTravelApp-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-AnotherTravelApp-tvOSTests/Pods-AnotherTravelApp-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
+		F9508AA6FA444D24B2C0FE96 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -550,6 +582,22 @@
 		59F53AF93DDD4C67A425C74F /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				3C5CA17A31AF47A7AEE8A483 /* AntDesign.ttf */,
+				363BFD06B52244D9A71536FB /* Entypo.ttf */,
+				2F7C1C341E824461A2BEE295 /* EvilIcons.ttf */,
+				660167168B4645A4B2333B15 /* Feather.ttf */,
+				F9508AA6FA444D24B2C0FE96 /* FontAwesome.ttf */,
+				36EEE837681A432988FB9E1C /* FontAwesome5_Brands.ttf */,
+				C7CE2EBAFC454F449C2BB9B4 /* FontAwesome5_Regular.ttf */,
+				7A41E7E9236A41CAA9721290 /* FontAwesome5_Solid.ttf */,
+				8F10EB36D75D46D19A0E412F /* Fontisto.ttf */,
+				4B3679BE176B402199BAB6A3 /* Foundation.ttf */,
+				C4A40BB863FD498BBD8F0916 /* Ionicons.ttf */,
+				9324248296A64C3FA9976210 /* MaterialCommunityIcons.ttf */,
+				B3AD6179529A4D29BCB88276 /* MaterialIcons.ttf */,
+				22EB3162C9144401BE69F2A4 /* Octicons.ttf */,
+				0272CC2E54B8490AB990526D /* SimpleLineIcons.ttf */,
+				C59222E611014501B2E87739 /* Zocial.ttf */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -682,6 +730,7 @@
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
 				00DD1BFF1BD5951E006B06BC /* Bundle React Native code and images */,
+				9BC4C01F10637E42C6285BD0 /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -742,6 +791,9 @@
 					00E356ED1AD99517003FC87E = {
 						CreatedOnToolsVersion = 6.2;
 						TestTargetID = 13B07F861A680F5B00A75B9A;
+					};
+					13B07F861A680F5B00A75B9A = {
+						ProvisioningStyle = Automatic;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
 						CreatedOnToolsVersion = 8.2.1;
@@ -1102,6 +1154,22 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
+				80D4D7AC50D84B1DA79A9C5F /* AntDesign.ttf in Resources */,
+				C54FF10C06EA446894C066D3 /* Entypo.ttf in Resources */,
+				0ECE9D307DF4454A912FBB62 /* EvilIcons.ttf in Resources */,
+				9F18965EB26B49EB83792DCB /* Feather.ttf in Resources */,
+				9C89A14D5C2C4C68AE7A922C /* FontAwesome.ttf in Resources */,
+				2086E701B7904940BC974401 /* FontAwesome5_Brands.ttf in Resources */,
+				14BEDCC4698B4D8098605E0C /* FontAwesome5_Regular.ttf in Resources */,
+				48FE890779C444FEA3B4072B /* FontAwesome5_Solid.ttf in Resources */,
+				051818506F4F43B5A1A5358D /* Fontisto.ttf in Resources */,
+				9ED2373EC1C743C3AF64A363 /* Foundation.ttf in Resources */,
+				E4EEAC069B1F47ED974A5CA9 /* Ionicons.ttf in Resources */,
+				E195EE64FFB04FB2BA601918 /* MaterialCommunityIcons.ttf in Resources */,
+				CD642C915209462DB0DBC6BD /* MaterialIcons.ttf in Resources */,
+				D8068191A9AE4204A3D5DD17 /* Octicons.ttf in Resources */,
+				227053BE2F024F128506AF34 /* SimpleLineIcons.ttf in Resources */,
+				3383F331D6BA473E8CCA6969 /* Zocial.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1217,6 +1285,28 @@
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
 		};
+		9BC4C01F10637E42C6285BD0 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-AnotherTravelApp/Pods-AnotherTravelApp-frameworks.sh",
+				"${BUILT_PRODUCTS_DIR}/RNGestureHandler/RNGestureHandler.framework",
+				"${BUILT_PRODUCTS_DIR}/RNVectorIcons/RNVectorIcons.framework",
+				"${BUILT_PRODUCTS_DIR}/React/React.framework",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputPaths = (
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RNGestureHandler.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/RNVectorIcons.framework",
+				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/React.framework",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-AnotherTravelApp/Pods-AnotherTravelApp-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
 		A62A823421D9A80DA6563157 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -1309,6 +1399,8 @@
 			baseConfigurationReference = 37D762FE2086D38B333D4B62 /* Pods-AnotherTravelAppTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
+				DEVELOPMENT_TEAM = "";
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
 					"$(inherited)",
@@ -1333,7 +1425,9 @@
 			baseConfigurationReference = 8CDFED062D9C0A71602EBD06 /* Pods-AnotherTravelAppTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
+				"CODE_SIGN_IDENTITY[sdk=macosx*]" = "Apple Development";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = "";
 				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = AnotherTravelAppTests/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
@@ -1354,8 +1448,11 @@
 			baseConfigurationReference = DF4CBA1A4238FB5FDE57C2AB /* Pods-AnotherTravelApp.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_TEAM = "";
 				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = AnotherTravelApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1364,8 +1461,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.facebook.REACT.AnotherTravelApp;
 				PRODUCT_NAME = AnotherTravelApp;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Debug;
@@ -1375,7 +1473,10 @@
 			baseConfigurationReference = 5326D7472DE350D6C23392BC /* Pods-AnotherTravelApp.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
 				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = AnotherTravelApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -1384,8 +1485,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.facebook.REACT.AnotherTravelApp;
 				PRODUCT_NAME = AnotherTravelApp;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				VERSIONING_SYSTEM = "apple-generic";
 			};
 			name = Release;
@@ -1401,6 +1503,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = "$(inherited)";
@@ -1431,6 +1534,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "AnotherTravelApp-tvOS/Info.plist";
@@ -1458,6 +1562,7 @@
 				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = "";
 				ENABLE_TESTABILITY = YES;
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = "$(inherited)";
@@ -1487,6 +1592,7 @@
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				COPY_PHASE_STRIP = NO;
 				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = "";
 				GCC_NO_COMMON_BLOCKS = YES;
 				HEADER_SEARCH_PATHS = "$(inherited)";
 				INFOPLIST_FILE = "AnotherTravelApp-tvOSTests/Info.plist";

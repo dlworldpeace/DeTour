@@ -1,3 +1,31 @@
-PODFILE CHECKSUM: e95f3f2bf00d664a1c8c334528c89c5172e37245
+PODS:
+  - React (0.11.0):
+    - React/Core (= 0.11.0)
+  - React/Core (0.11.0)
+  - RNGestureHandler (1.5.2):
+    - React
+  - RNVectorIcons (6.6.0):
+    - React
+
+DEPENDENCIES:
+  - RNGestureHandler (from `../node_modules/react-native-gesture-handler`)
+  - RNVectorIcons (from `../node_modules/react-native-vector-icons`)
+
+SPEC REPOS:
+  trunk:
+    - React
+
+EXTERNAL SOURCES:
+  RNGestureHandler:
+    :path: "../node_modules/react-native-gesture-handler"
+  RNVectorIcons:
+    :path: "../node_modules/react-native-vector-icons"
+
+SPEC CHECKSUMS:
+  React: ab1a2e21deb34965c38328d5ec40cc7d12c6050a
+  RNGestureHandler: 946a7691e41df61e2c4b1884deab41a4cdc3afff
+  RNVectorIcons: 0bb4def82230be1333ddaeee9fcba45f0b288ed4
+
+PODFILE CHECKSUM: 7b16e1559fa4fc0d04007d464f406d75ed5927da
 
 COCOAPODS: 1.8.4
