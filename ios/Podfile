@@ -1,0 +1,28 @@
+# Uncomment the next line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'AnotherTravelApp' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AnotherTravelApp
+
+  target 'AnotherTravelAppTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
+
+target 'AnotherTravelApp-tvOS' do
+  # Comment the next line if you don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for AnotherTravelApp-tvOS
+
+  target 'AnotherTravelApp-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
